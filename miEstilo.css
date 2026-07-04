@@ -1,6 +1,6 @@
 html{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background:linear-gradient(120deg, pink,white);
+    background:linear-gradient(120deg, gold,white);
 }
 body{
     max-width:1000px;
@@ -8,7 +8,7 @@ body{
     padding: 30px;
     background: white;
     border-radius: 20px;
-    box-shadow: 0 15px 40px black;
+    box-shadow: 0 15px 40px palevioletred;
     animation: aparecer 1s ease-in-out;
 }
 h1{
@@ -21,7 +21,7 @@ h1{
 h2{
     font-size: 30px;
     color:brown;
-    border-left: 6px solid burlywood;
+    border-left: 6px solid purple;
     padding-left: 10px;
 }
 p,li{
