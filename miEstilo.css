@@ -1,6 +1,6 @@
 html{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background:linear-gradient(120deg, gold,white);
+    background:linear-gradient(120deg, rgb(252, 165, 34),white);
 }
 body{
     max-width:1000px;
@@ -15,7 +15,7 @@ h1{
     font-size: 41px;
     text-align: center;
     color:rgb(180, 151, 207);
-    text-shadow:3px 3px 10px pink;
+    text-shadow:3px 3px 10px mediumaquamarine;
     transition: 0.3 ease;
 }
 h2{
